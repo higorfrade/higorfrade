@@ -57,7 +57,7 @@
 
 ---
 
-### 💡 Outras  
+### 💡 Outras Competências
 ![Scrum](https://img.shields.io/badge/Scrum-F25137?style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-0A66C2?style=for-the-badge)
